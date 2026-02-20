@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+.env
+.env.local
+.env.*.local
+
+.next/
+dist/
+build/
+out/
+
+*.log
+npm-debug.log*
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
+
+# Uploads
+uploads/
