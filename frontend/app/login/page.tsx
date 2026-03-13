@@ -57,7 +57,7 @@ export default function Login() {
         <CardHeader>
           <CardTitle>
             <div href="/" className="text-2xl font-bold">
-              E-Shop
+              Q-Shop
             </div>
           </CardTitle>
           <CardDescription>Login to your account</CardDescription>
